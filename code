@@ -1,0 +1,334 @@
+
+
+
+
+SINGLE COLOR BACKGROUND
+
+
+<style>
+      body {
+         background-color: rgb(235, 225, 225);
+      }
+</style>
+
+
+
+AN ENTIRE WEBPAGE
+
+
+<div class="glitch-embed-wrap" style="height: 660px; width: 60%%;">
+    <iframe
+      src="https://glitch.com/edit/#!/purple-node-dot-js?previewSize=0&attributionHidden=true&sidebarCollapsed=false&path=README.md&previewFirst=false"
+      title="purple-node-dot-js on Glitch"
+      allow="geolocation; microphone; camera; midi; encrypted-media; xr-spatial-tracking; fullscreen"
+      allowFullScreen
+      style="height: 100%; width: 100%; border: 0;">
+    </iframe>
+  </div>
+
+
+
+ITUNES PLAYLIST
+  
+
+<iframe
+  allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" 
+  style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+  src="https://embed.music.apple.com/us/playlist/every-day-motion/pl.u-Ldbqevjs2a9Gmdo">
+</iframe>
+
+
+  
+
+  VIDEO MP4
+
+    <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Video Background</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&family=Roboto&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+</html>
+<body>
+  <div class="home">
+    <video autoplay muted loop>
+      <source src="ccmatrix.mp4" type="video/mp4" />
+    </video>
+  </div>
+</body>
+
+
+
+
+{\rtf1\ansi\ansicpg1252\cocoartf2709
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset0 Menlo-Bold;\f2\fnil\fcharset0 Verdana;
+\f3\fnil\fcharset0 Verdana-Italic;\f4\fnil\fcharset0 Menlo-Italic;}
+{\colortbl;\red255\green255\blue255;\red255\green255\blue255;\red194\green194\blue193;\red0\green0\blue0;
+\red255\green255\blue255;\red194\green194\blue192;\red251\green0\blue255;\red255\green255\blue255;\red194\green194\blue192;
+\red0\green0\blue0;\red74\green0\blue230;\red0\green0\blue0;\red193\green193\blue193;\red109\green109\blue109;
+\red70\green137\blue204;\red140\green211\blue254;\red194\green126\blue101;\red0\green0\blue255;\red205\green173\blue106;
+\red167\green197\blue152;\red128\green0\blue255;\red109\green109\blue109;\red72\green140\blue207;\red203\green203\blue202;
+\red204\green172\blue104;\red142\green214\blue255;\red212\green213\blue152;\red194\green125\blue100;\red193\green125\blue99;
+\red74\green0\blue230;\red255\green255\blue255;\red255\green255\blue255;\red128\green0\blue255;\red255\green255\blue255;
+\red193\green193\blue193;\red193\green193\blue193;\red255\green255\blue255;\red195\green195\blue192;\red17\green128\blue2;
+\red255\green255\blue255;\red195\green195\blue192;\red195\green195\blue192;\red196\green196\blue192;\red196\green196\blue192;
+\red36\green255\blue255;}
+{\*\expandedcolortbl;;\cssrgb\c100000\c100000\c100000\c0;\cssrgb\c80351\c80350\c79949;\cssrgb\c0\c1\c1;
+\cssrgb\c100000\c100000\c99985\c0;\cssrgb\c80437\c80436\c79935;\cssrgb\c100000\c7248\c100000;\cssrgb\c100000\c100000\c99971\c0;\cssrgb\c80523\c80521\c79920;
+\cssrgb\c0\c0\c0;\cssrgb\c36820\c18688\c92265;\csgray\c0\c0;\cssrgb\c80000\c80000\c80000;\cssrgb\c50196\c50196\c50196;
+\cssrgb\c33725\c61176\c83922;\cssrgb\c61176\c86275\c99608;\cssrgb\c80784\c56863\c47059;\cssrgb\c1680\c19835\c100000;\cssrgb\c84314\c72941\c49020;
+\cssrgb\c70980\c80784\c65882;\cssrgb\c58188\c21569\c100000;\cssrgb\c50416\c50416\c50164;\cssrgb\c34566\c62178\c84753;\cssrgb\c83502\c83501\c83084;
+\cssrgb\c84073\c72587\c48244;\cssrgb\c61912\c87133\c100000;\cssrgb\c86216\c86153\c66114;\cssrgb\c80757\c56727\c46519;\cssrgb\c80740\c56654\c46245;
+\cssrgb\c36820\c18688\c92265;\cssrgb\c100000\c100000\c99956\c0;\cssrgb\c100000\c100000\c99941\c0;\cssrgb\c58188\c21569\c100000;\cssrgb\c100000\c100000\c99926\c0;
+\cssrgb\c80088\c80088\c79988;\cssrgb\c80176\c80176\c79976;\cssrgb\c100000\c100000\c99985;\cssrgb\c80694\c80691\c79888;\cssrgb\c0\c56032\c0;
+\cssrgb\c100000\c100000\c99971;\cssrgb\c80778\c80775\c79871;\cssrgb\c80862\c80858\c79853;\cssrgb\c80946\c80941\c79835;\cssrgb\c81029\c81023\c79816;
+\cssrgb\c4983\c100000\c100000;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww28600\viewh18000\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs24 \cf0 \cb2 \expnd0\expndtw0\kerning0
+ \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b\fs48 \cf4 \cb5 \
+
+\fs72 static website \cf7 \cb8 html \cf10 &\cf7  CSS\cf4 \cb5  basics\
+\
+\
+
+\fs48 \cf11 1. How to create a video background on a website\cf4 \
+\
+
+\fs28 x 3 files\
+\
+1. index.html\
+\
+2. style.css\
+\
+3. video.mp4
+\fs48 \
+\
+
+\f0\b0 \
+
+\fs36 \cf11 index.html 
+\f1\b\fs48 \cf4 \
+\cf10 \cb12 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b0\fs24 \cf10 \outl0\strokewidth0 \strokec13   \strokec14 <!\strokec15 DOCTYPE\strokec13  \strokec16 html\strokec14 >\strokec13 \
+\strokec14 <\strokec15 html\strokec13  \strokec16 lang\strokec13 =\strokec17 "en"\strokec14 >\strokec13 \
+  \strokec14 <\strokec15 head\strokec14 >\strokec13 \
+    \strokec14 <\strokec15 meta\strokec13  \strokec16 charset\strokec13 =\strokec17 "UTF-8"\strokec13  \strokec14 />\strokec13 \
+    \strokec14 <\strokec15 meta\strokec13  \strokec16 http-equiv\strokec13 =\strokec17 "X-UA-Compatible"\strokec13  \strokec16 content\strokec13 =\strokec17 "IE=edge"\strokec13  \strokec14 />\strokec13 \
+    \strokec14 <\strokec15 meta\strokec13  \strokec16 name\strokec13 =\strokec17 "viewport"\strokec13  \strokec16 content\strokec13 =\strokec17 "width=device-width, initial-scale=1.0"\strokec13  \strokec14 />\strokec13 \
+    \strokec14 <\strokec15 title\strokec14 >\strokec13 Video Background\strokec14 </\strokec15 title\strokec14 >\strokec13 \
+    \strokec14 <\strokec15 link\strokec13  \strokec16 rel\strokec13 =\strokec17 "stylesheet"\strokec13  \strokec16 href\strokec13 =\strokec17 "style.css"\strokec13  \strokec14 />\strokec13 \
+    \strokec14 <\strokec15 link\strokec13  \strokec16 rel\strokec13 =\strokec17 "preconnect"\strokec13  \strokec16 href\strokec13 =\strokec17 "https://fonts.googleapis.com"\strokec13  \strokec14 />\strokec13 \
+    \strokec14 <\strokec15 link\strokec13  \strokec16 rel\strokec13 =\strokec17 "preconnect"\strokec13  \strokec16 href\strokec13 =\strokec17 "https://fonts.gstatic.com"\strokec13  \strokec16 crossorigin\strokec13  \strokec14 />\strokec13 \
+    \strokec14 <\strokec15 link\strokec13 \
+      \strokec16 href\strokec13 =\strokec17 "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&family=Roboto&display=swap"\strokec13 \
+      \strokec16 rel\strokec13 =\strokec17 "stylesheet"\strokec13 \
+    \strokec14 />\strokec13 \
+  \strokec14 </\strokec15 head\strokec14 >\strokec13 \
+\strokec14 </\strokec15 html\strokec14 >\strokec13 \
+\strokec14 <\strokec15 body\strokec14 >\strokec13 \
+  \strokec14 <\strokec15 div\strokec13  \strokec16 class\strokec13 =\strokec17 "home"\strokec14 >\strokec13 \
+    \strokec14 <\strokec15 video\strokec13  \strokec16 autoplay\strokec13  \strokec16 muted\strokec13  \strokec16 loop\strokec14 >\strokec13 \
+      \strokec14 <\strokec15 source\strokec13  \strokec16 src\strokec13 =\strokec17 "\cf18 ccmatrix.mp4\cf10 "\strokec13  \strokec16 type\strokec13 =\strokec17 "video/mp4"\strokec13  \strokec14 />\strokec13 \
+    \strokec14 </\strokec15 video\strokec14 >\strokec13 \
+  \strokec14 </\strokec15 div\strokec14 >\strokec13 \
+\strokec14 </\strokec15 body\strokec14 >\cf13 \cb1 \strokec13 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b\fs72 \cf4 \cb5 \outl0\strokewidth0 \
+
+\f0\b0\fs36 \cf11 style.css
+\f1\b \cf18 \
+\
+\pard\pardeftab720\partightenfactor0
+
+\f0\b0\fs24 \cf10 \cb12 \outl0\strokewidth0 \strokec15 *\strokec13 ,\
+\pard\pardeftab720\partightenfactor0
+\cf10 \strokec19 ::before\strokec13 ,\
+\strokec19 ::after\strokec13  \{\
+  \strokec16 box-sizing\strokec13 : \strokec17 border-box\strokec13 ;\
+  \strokec16 margin\strokec13 : \strokec20 0\strokec13 ;\
+  \strokec16 padding\strokec13 : \strokec20 0\strokec13 ;\
+\}\
+\
+\strokec19 body\strokec13  \{\
+  \strokec16 font-family\strokec13 : Playfair Display, \strokec17 sans-serif\strokec13 ;\
+  \strokec16 background\strokec13 : \strokec17 #f1f1f1\strokec13 ;\
+\}\
+\pard\pardeftab720\partightenfactor0
+\cf13 \cb1 \
+\
+\
+\pard\pardeftab720\partightenfactor0
+
+\fs36 \cf11 \cb5 \outl0\strokewidth0 CCmatrix.mp4
+\f1\b \cf18 \
+\
+
+\fs48 \cf4 \
+\
+\cf11 2. How to create a website background\cf10 \
+\
+\pard\pardeftab720\partightenfactor0
+
+\f0\b0\fs24 \cf10 Select or create an image file to use. \cb2 \
+\
+\cb5 upload it online:\cb2   {\field{\*\fldinst{HYPERLINK "https://imgbb.com/"}}{\fldrslt https://imgbb.com}}\
+\
+\cb5 Then Place the image URL in quotes with the \cf21 \cb8 <style>\cf10 \cb5  tag\cb2 \
+\
+\cb5 Place the entire tag in the header of you \cf21 \cb8 index.html\cf10 \cb5  page\cb2 \
+\
+\
+\pard\pardeftab720\partightenfactor0
+\cf10 <style>\
+\pard\pardeftab720\partightenfactor0
+\cf10     body  \{\
+      background-image: url("\cf18 \cb8 https://i.ibb.co/p33GmS2/coffee.png\cf10 \'94\cb2 );\
+      background-color: #cccccc;\
+      background-repeat: no-repeat;\
+      background-size: cover;\
+    \}\
+\pard\pardeftab720\partightenfactor0
+\cf10 </style>\
+\
+\
+\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b\fs48 \cf30 \cb31 3.How to add CSS in a website
+\f0\b0 \cf10 \
+\
+
+\fs36 \cb32 Can be done inline inside the html file with the \cf33 \cb34 <style>\cf10 \cb32  tag\
+\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b\fs28 \cf10 \cb1 <a style=\'93color: HEX, RGB, HSL, goes here;\'94>colored text is here</a>
+\f0\b0\fs36 \cb32 \
+\
+\
+Can be done using a \cf30 \cb34 <link>\cf10  \cb32 tag that points to an external CSS file\
+\
+\pard\pardeftab720\partightenfactor0
+
+\fs30 \cf10 \cb2 <link rel="stylesheet" href="styles.css">
+\fs24 \cf10 \
+\
+\pard\pardeftab720\partightenfactor0
+\cf10 \cb1 \
+\
+\
+
+\f1\b\fs48 \cf11 4. Color text in html without using a CSS style sheet\cf10 \
+\
+
+\fs28 Can use HEX, RGB, or HSL and it\'92s placed in front of the text to color.\
+\
+Example:
+\fs36  
+\fs28 \cb37 <a style=\'93color:#070707;\'94>
+\f0\b0 \cf39 \cb40 THIS TEXT IS COLORED GREEN\cf10 \cb37 <
+\f1\b /a>\
+\
+\
+\
+\
+\
+
+\fs48 \cf11 \cb2 5. How to embed a hyperlink in a website\cf10 \
+\
+\pard\pardeftab720\sa360\partightenfactor0
+
+\f2\b0\fs30 \cf10 the 
+\f0\fs31\fsmilli15750 <a> tag 
+\f2\fs30 indicates a hyperlink
+\f1\b\fs48 \
+
+\f2\b0\fs30 the 
+\f0\fs31\fsmilli15750 href
+\f2\fs30  indicates the link destination\
+\pard\pardeftab720\sa360\partightenfactor0
+\cf10 \cb37 The\cb2  
+\f3\i link \cb5 text
+\f2\i0  is what is visible on the page\
+\pard\pardeftab720\partightenfactor0
+
+\f0 \cf10 \cb2 <a href=\'93
+\f4\i https
+\f0\i0 ://google.com\'94>
+\f4\i \cf21 \cb31 Take me to Google
+\f0\i0 \cf10 \cb2 </a>\
+\
+\
+\
+\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b\fs48 \cf11 6. Edit the browser tab
+\f0\b0 \cf10 \
+ 
+\f1\b\fs28 \cb37 \
+\pard\pardeftab720\partightenfactor0
+\cf10 \cb2 The \cf21 <title>\cf10  tag is what is shown on the tab of your browser and is found in the \cf21 \cb5 <head>\cf10 \cb2  tag\cb37 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b0\fs30 \cf10 \cb5 \
+\pard\pardeftab720\partightenfactor0
+\cf10 \cb8 <head>\cb5 \
+\'a0 <title>\cf21 \cb31 example.com\cf10 \cb5 </title>\
+\cb8 </head>\
+\
+\
+\
+\cf11 \
+\pard\pardeftab720\partightenfactor0
+\cf10 \cb2 \
+\
+\
+\
+\
+\
+
+\fs48 \
+
+\fs36 \cf4 \cb5 \
+\pard\pardeftab720\partightenfactor0
+\cf45 \cb32 \
+
+\fs30 \cf7 \cb8 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b\fs28 \cf4 \cb5 \
+\pard\pardeftab720\partightenfactor0
+\cf4 \cb37 \
+\
+\
+
+\f0\b0\fs24 \cf13 \cb1 \
+\
+}
+
+
+
+
+
+
+
+  
